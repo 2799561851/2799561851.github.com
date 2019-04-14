@@ -8,6 +8,11 @@
         <category>学习</category>
         <category>娱乐</category>
       </categories>
+      <tags>
+        <tag>周末</tag>
+        <tag>父子</tag>
+        <tag>欢乐</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[大人物 观后感]]></title>
@@ -16,6 +21,10 @@
       <categories>
         <category>观影</category>
       </categories>
+      <tags>
+        <tag>观影</tag>
+        <tag>感悟</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[科学竞赛 反思记录]]></title>
@@ -24,6 +33,11 @@
       <categories>
         <category>学习</category>
       </categories>
+      <tags>
+        <tag>竞赛</tag>
+        <tag>反思</tag>
+        <tag>总结</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[数学竞赛]]></title>
@@ -32,6 +46,10 @@
       <categories>
         <category>学习</category>
       </categories>
+      <tags>
+        <tag>竞赛</tag>
+        <tag>反思</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[阅读书籍 非暴力沟通]]></title>
@@ -40,5 +58,10 @@
       <categories>
         <category>阅读</category>
       </categories>
+      <tags>
+        <tag>冷暴力</tag>
+        <tag>非暴力沟通</tag>
+        <tag>倾听</tag>
+      </tags>
   </entry>
 </search>
